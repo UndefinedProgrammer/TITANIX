@@ -8,6 +8,6 @@ Use LFS and BLFS (Linux From Scratch and Beyond LFS) to create an effecient, sim
 - Maybe wayland?
 - use GTK3 and nice themes
 - use sinking titanic as project logo
-- use error messages like: "ship going down"
+- use error messages like: "ship going down", "Iceberg encountered"
 - use "my heart will go on" by celine dion, as start-up sound
 - rename (symlinks!) core unix programs. ex.: sudo->captain
